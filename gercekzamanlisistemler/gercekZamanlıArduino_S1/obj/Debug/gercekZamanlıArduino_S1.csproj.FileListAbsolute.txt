@@ -1,0 +1,56 @@
+C:\Users\berkcanackreb\Documents\Visual Studio 2017\Projects\gercekZamanlıArduino_S1\gercekZamanlıArduino_S1\bin\Debug\gercekZamanlıArduino_S1.exe.config
+C:\Users\berkcanackreb\Documents\Visual Studio 2017\Projects\gercekZamanlıArduino_S1\gercekZamanlıArduino_S1\bin\Debug\gercekZamanlıArduino_S1.exe
+C:\Users\berkcanackreb\Documents\Visual Studio 2017\Projects\gercekZamanlıArduino_S1\gercekZamanlıArduino_S1\bin\Debug\gercekZamanlıArduino_S1.pdb
+C:\Users\berkcanackreb\Documents\Visual Studio 2017\Projects\gercekZamanlıArduino_S1\gercekZamanlıArduino_S1\bin\Debug\MySql.Data.dll
+C:\Users\berkcanackreb\Documents\Visual Studio 2017\Projects\gercekZamanlıArduino_S1\gercekZamanlıArduino_S1\bin\Debug\MySql.Data.xml
+C:\Users\berkcanackreb\Documents\Visual Studio 2017\Projects\gercekZamanlıArduino_S1\gercekZamanlıArduino_S1\obj\Debug\gercekZamanlıArduino_S1.csprojResolveAssemblyReference.cache
+C:\Users\berkcanackreb\Documents\Visual Studio 2017\Projects\gercekZamanlıArduino_S1\gercekZamanlıArduino_S1\obj\Debug\gercekZamanlıArduino_S1.Form1.resources
+C:\Users\berkcanackreb\Documents\Visual Studio 2017\Projects\gercekZamanlıArduino_S1\gercekZamanlıArduino_S1\obj\Debug\gercekZamanlıArduino_S1.Properties.Resources.resources
+C:\Users\berkcanackreb\Documents\Visual Studio 2017\Projects\gercekZamanlıArduino_S1\gercekZamanlıArduino_S1\obj\Debug\gercekZamanlıArduino_S1.csproj.GenerateResource.Cache
+C:\Users\berkcanackreb\Documents\Visual Studio 2017\Projects\gercekZamanlıArduino_S1\gercekZamanlıArduino_S1\obj\Debug\gercekZamanlıArduino_S1.csproj.CoreCompileInputs.cache
+C:\Users\berkcanackreb\Documents\Visual Studio 2017\Projects\gercekZamanlıArduino_S1\gercekZamanlıArduino_S1\obj\Debug\gercekZamanlıArduino_S1.exe
+C:\Users\berkcanackreb\Documents\Visual Studio 2017\Projects\gercekZamanlıArduino_S1\gercekZamanlıArduino_S1\obj\Debug\gercekZamanlıArduino_S1.pdb
+C:\Users\berkcanackreb\Documents\Visual Studio 2017\Projects\gercekZamanlıArduino_S1\gercekZamanlıArduino_S1\obj\Debug\gercekZamanlıArduino_S1.Form2.resources
+C:\Users\tayfun\Desktop\gercekZamanlıArduino_S1\gercekZamanlıArduino_S1\bin\Debug\gercekZamanlıArduino_S1.exe.config
+C:\Users\tayfun\Desktop\gercekZamanlıArduino_S1\gercekZamanlıArduino_S1\obj\Debug\gercekZamanlıArduino_S1.exe
+C:\Users\tayfun\Desktop\gercekZamanlıArduino_S1\gercekZamanlıArduino_S1\obj\Debug\gercekZamanlıArduino_S1.pdb
+C:\Users\tayfun\Desktop\gercekZamanlıArduino_S1\gercekZamanlıArduino_S1\obj\Debug\gercekZamanlıArduino_S1.csprojResolveAssemblyReference.cache
+C:\Users\tayfun\Desktop\gercekZamanlıArduino_S1\gercekZamanlıArduino_S1\obj\Debug\gercekZamanlıArduino_S1.Form1.resources
+C:\Users\tayfun\Desktop\gercekZamanlıArduino_S1\gercekZamanlıArduino_S1\obj\Debug\gercekZamanlıArduino_S1.Form2.resources
+C:\Users\tayfun\Desktop\gercekZamanlıArduino_S1\gercekZamanlıArduino_S1\obj\Debug\gercekZamanlıArduino_S1.Properties.Resources.resources
+C:\Users\tayfun\Desktop\gercekZamanlıArduino_S1\gercekZamanlıArduino_S1\obj\Debug\gercekZamanlıArduino_S1.csproj.GenerateResource.Cache
+C:\Users\berkcanackreb\Desktop\111111111\gercekZamanlıArduino_S1\obj\Debug\gercekZamanlıArduino_S1.csprojResolveAssemblyReference.cache
+C:\Users\berkcanackreb\Desktop\111111111\gercekZamanlıArduino_S1\obj\Debug\gercekZamanlıArduino_S1.Form1.resources
+C:\Users\berkcanackreb\Desktop\111111111\gercekZamanlıArduino_S1\obj\Debug\gercekZamanlıArduino_S1.Form2.resources
+C:\Users\berkcanackreb\Desktop\111111111\gercekZamanlıArduino_S1\obj\Debug\gercekZamanlıArduino_S1.Properties.Resources.resources
+C:\Users\berkcanackreb\Desktop\111111111\gercekZamanlıArduino_S1\obj\Debug\gercekZamanlıArduino_S1.csproj.GenerateResource.Cache
+C:\Users\berkcanackreb\Desktop\111111111\gercekZamanlıArduino_S1\obj\Debug\gercekZamanlıArduino_S1.csproj.CoreCompileInputs.cache
+C:\Users\berkcanackreb\Desktop\111111111\gercekZamanlıArduino_S1\obj\Debug\gercekZamanlıArduino_S1.exe
+C:\Users\berkcanackreb\Desktop\111111111\gercekZamanlıArduino_S1\obj\Debug\gercekZamanlıArduino_S1.pdb
+C:\Users\berkcanackreb\Desktop\111111111\gercekZamanlıArduino_S1\bin\Debug\gercekZamanlıArduino_S1.exe.config
+C:\Users\berkcanackreb\Desktop\111111111\gercekZamanlıArduino_S1\bin\Debug\gercekZamanlıArduino_S1.exe
+C:\Users\berkcanackreb\Desktop\111111111\gercekZamanlıArduino_S1\bin\Debug\gercekZamanlıArduino_S1.pdb
+C:\Users\berkcanackreb\Desktop\111111111\gercekZamanlıArduino_S1\bin\Debug\MySql.Data.dll
+C:\Users\berkcanackreb\Desktop\111111111\gercekZamanlıArduino_S1\bin\Debug\MySql.Data.xml
+C:\Users\tayfun\Desktop\111111111\gercekZamanlıArduino_S1\bin\Debug\gercekZamanlıArduino_S1.exe.config
+C:\Users\tayfun\Desktop\111111111\gercekZamanlıArduino_S1\obj\Debug\gercekZamanlıArduino_S1.exe
+C:\Users\tayfun\Desktop\111111111\gercekZamanlıArduino_S1\obj\Debug\gercekZamanlıArduino_S1.pdb
+C:\Users\tayfun\Desktop\111111111\gercekZamanlıArduino_S1\bin\Debug\gercekZamanlıArduino_S1.exe
+C:\Users\tayfun\Desktop\111111111\gercekZamanlıArduino_S1\bin\Debug\gercekZamanlıArduino_S1.pdb
+C:\Users\tayfun\Desktop\111111111\gercekZamanlıArduino_S1\bin\Debug\MySql.Data.xml
+C:\Users\tayfun\Desktop\111111111\gercekZamanlıArduino_S1\obj\Debug\gercekZamanlıArduino_S1.csprojResolveAssemblyReference.cache
+C:\Users\tayfun\Desktop\111111111\gercekZamanlıArduino_S1\obj\Debug\gercekZamanlıArduino_S1.Form1.resources
+C:\Users\tayfun\Desktop\111111111\gercekZamanlıArduino_S1\obj\Debug\gercekZamanlıArduino_S1.Form2.resources
+C:\Users\tayfun\Desktop\111111111\gercekZamanlıArduino_S1\obj\Debug\gercekZamanlıArduino_S1.Properties.Resources.resources
+C:\Users\tayfun\Desktop\111111111\gercekZamanlıArduino_S1\obj\Debug\gercekZamanlıArduino_S1.csproj.GenerateResource.Cache
+C:\Users\tayfun\Desktop\gercekzamanlisistemler\gercekZamanlıArduino_S1\bin\Debug\gercekZamanlıArduino_S1.exe.config
+C:\Users\tayfun\Desktop\gercekzamanlisistemler\gercekZamanlıArduino_S1\obj\Debug\gercekZamanlıArduino_S1.exe
+C:\Users\tayfun\Desktop\gercekzamanlisistemler\gercekZamanlıArduino_S1\obj\Debug\gercekZamanlıArduino_S1.pdb
+C:\Users\tayfun\Desktop\gercekzamanlisistemler\gercekZamanlıArduino_S1\bin\Debug\gercekZamanlıArduino_S1.exe
+C:\Users\tayfun\Desktop\gercekzamanlisistemler\gercekZamanlıArduino_S1\bin\Debug\gercekZamanlıArduino_S1.pdb
+C:\Users\tayfun\Desktop\gercekzamanlisistemler\gercekZamanlıArduino_S1\bin\Debug\MySql.Data.xml
+C:\Users\tayfun\Desktop\gercekzamanlisistemler\gercekZamanlıArduino_S1\obj\Debug\gercekZamanlıArduino_S1.csprojResolveAssemblyReference.cache
+C:\Users\tayfun\Desktop\gercekzamanlisistemler\gercekZamanlıArduino_S1\obj\Debug\gercekZamanlıArduino_S1.Form1.resources
+C:\Users\tayfun\Desktop\gercekzamanlisistemler\gercekZamanlıArduino_S1\obj\Debug\gercekZamanlıArduino_S1.Form2.resources
+C:\Users\tayfun\Desktop\gercekzamanlisistemler\gercekZamanlıArduino_S1\obj\Debug\gercekZamanlıArduino_S1.Properties.Resources.resources
+C:\Users\tayfun\Desktop\gercekzamanlisistemler\gercekZamanlıArduino_S1\obj\Debug\gercekZamanlıArduino_S1.csproj.GenerateResource.Cache
